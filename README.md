@@ -1,0 +1,1 @@
+# plugins-wenprise-pinyin-slug
